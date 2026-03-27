@@ -16,10 +16,4 @@
 ## ✅ 100% FREE — No login, no ads
 ```
 
-**4.** Click **Commit changes**
-
-**5.** Go to **Settings** → **Pages** → under Source select **main branch** → click **Save**
-
-Your page will be live at:
-```
 [https://yourusername.github.io/gooogleit](https://github.com/AshVPN/Google-It/)
