@@ -15,4 +15,3 @@
 
 ## ✅ 100% FREE — No login, no ads
 
-<img width="520" height="960" alt="image" src="https://github.com/user-attachments/assets/065ee55f-67d5-4b58-9cf5-30a4c269e258" />
