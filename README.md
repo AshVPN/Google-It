@@ -16,4 +16,3 @@
 ## ✅ 100% FREE — No login, no ads
 ```
 
-[https://yourusername.github.io/gooogleit](https://github.com/AshVPN/Google-It/)
